@@ -10,7 +10,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: 'src/lib.tsx',
-      name: 'quartz-excalidraw-plugin',
+      name: 'QuartzExcalidrawPlugin',
       fileName: 'quartz-excalidraw-plugin',
     }
   }
